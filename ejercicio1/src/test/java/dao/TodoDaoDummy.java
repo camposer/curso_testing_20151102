@@ -25,7 +25,7 @@ public class TodoDaoDummy implements TodoDao {
 		for (int i = 0; i < todos.size(); i++)
 			if (todos.get(i).getId().equals(id))
 				return i;
-		return 0;
+		return -1;
 	}
 
 	public void eliminar(Integer id) {
