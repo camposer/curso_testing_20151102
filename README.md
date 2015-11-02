@@ -22,6 +22,7 @@
 	- TDD
 		- https://en.wikipedia.org/wiki/Test-driven_development
 	- Mocks
+		- http://martinfowler.com/articles/mocksArentStubs.html
 		- http://mockito.org
 	- BDD
 		- Cucumber
@@ -57,5 +58,6 @@
 - Métodos ágiles de desarrollo
 	- http://www.extremeprogramming.org
 	- http://agileatlas.org/atlas
+	- https://larlet.fr/static/david/stream/SpotifyScaling.pdf
 
 
