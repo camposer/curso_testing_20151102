@@ -2,7 +2,6 @@ package test;
 
 import org.junit.After;
 import org.junit.AfterClass;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -32,11 +31,11 @@ public class Basico {
 
 	@Test
 	public void sumar() {
-		assertEquals(2, 2);
+		assertEquals(2 + 2, 5);
 	}
 	
 	@Test
 	public void restar() {
-		assertEquals(2, 2);
+		assertEquals(2 - 2, 0);
 	}
 }
