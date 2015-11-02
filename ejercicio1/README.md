@@ -17,5 +17,5 @@ int d = calc.dividir(a, c);
 ```
 
 2.- Implementar la prueba unitaria y DAO para persistir con JPA objetos del tipo Todo (titulo, descripción, fecha y estatus). 
-	a. Realizar implementación dummy
-	b. Utilizar bases de datos en memoria
+- Realizar implementación dummy
+- Utilizar bases de datos en memoria
