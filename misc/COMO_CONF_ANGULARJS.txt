@@ -6,7 +6,7 @@
 
 	4. Configurar proxy. Añadir la siguiente variable de entorno:
 		Nombre: http_proxy
-		Valor: http://USUARIO:CONTRASEÑA@proxy.indra.es:8080
+		Valor: http://USUARIO:CONTRASEÑA@proxy.comprany.com:8080
 
 	IMPORTANTE: Recuerde borrar esta variable de entorno al terminar el curso!!!
 
